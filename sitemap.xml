@@ -33,13 +33,10 @@
 </url>
 
 <url>
-<loc>https://sweetyhostel.netlify.app/faq.html</loc>
+<loc>https://sweetyhostel.netlify.app/contact</loc>
 <priority>0.7</priority>
 </url>
 
-<url>
-<loc>https://sweetyhostel.netlify.app/contact.html</loc>
-<priority>0.8</priority>
-</url>
+
 
 </urlset>
